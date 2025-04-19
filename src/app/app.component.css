@@ -1,3 +1,6 @@
 main {
+  margin: 16px;
   padding: 16px;
+  border-radius: 32px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
 }
